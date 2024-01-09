@@ -4,9 +4,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=whtepony.whtepony) [![Github](https://img.shields.io/github/followers/whtepony?label=Followers&logo=Github)](https://github.com/whtepony)
 ## 📊 Statistics
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whteponyy&theme=synthwave)
+![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whtepony&theme=synthwave)
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=whtepony&theme=synthwave)
-![ GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=whtepony&repo=Brick-Hill-Clothing-Converter&theme=synthwave)
 
 ## 🎓 I'm looking into college classes for programming!
 - Intrested in programming since 2019
