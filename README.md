@@ -7,11 +7,6 @@
 ![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whtepony&theme=synthwave)
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=whtepony&theme=synthwave)
 
-## 🎓 I'm looking into college classes for programming!
-- Intrested in programming since 2019
-- Started really learning 2023 (Thank's to a friend!)
-- Working on my own custom Roblox "Clone" for 4 months now!
-
 ## ✉️ Find me here
 
 <p align="center">
