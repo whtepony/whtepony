@@ -1,13 +1,12 @@
-# Hi there 👋, I'm YouGotLucky!
+# Hi there 👋, I'm whtepony!
 <img src="https://i.redd.it/k20ywqdlrtqb1.jpg">
 
-![](https://visitor-badge.laobi.icu/badge?page_id=YouGotLucky.YouGotLucky) [![Github](https://img.shields.io/github/followers/YouGotLucky?label=Followers&logo=Github)](https://github.com/YouGotLucky)
+![](https://visitor-badge.laobi.icu/badge?page_id=whtepony.whtepony) [![Github](https://img.shields.io/github/followers/whtepony?label=Followers&logo=Github)](https://github.com/whtepony)
 ## 📊 Statistics
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YouGotLucky&theme=synthwave)
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=YouGotLucky&theme=synthwave)
-![ GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=YouGotLucky&repo=Brick-Hill-2023-Rewrite&theme=synthwave)
-![ GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=YouGotLucky&repo=Brick-Hill-Clothing-Converter&theme=synthwave)
+![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whteponyy&theme=synthwave)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=whtepony&theme=synthwave)
+![ GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=whtepony&repo=Brick-Hill-Clothing-Converter&theme=synthwave)
 
 ## 🎓 I'm looking into college classes for programming!
 - Intrested in programming since 2019
