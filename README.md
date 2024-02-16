@@ -1,1 +1,1 @@
-<img src="https://i.redd.it/k20ywqdlrtqb1.jpg](https://bloody-disgusting.com/wp-content/uploads/2015/03/deftoneswhiteponybanner.jpg)https://bloody-disgusting.com/wp-content/uploads/2015/03/deftoneswhiteponybanner.jpg">
+<img src="https://bloody-disgusting.com/wp-content/uploads/2015/03/deftoneswhiteponybanner.jpg">
