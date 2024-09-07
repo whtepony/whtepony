@@ -11,7 +11,7 @@
 ## 🎵 Spotify Playing
 
 <p align="center">
-  <img src="https://spotify-now-playing-seven-beta.vercel.app/api/spotify/?background_color=8b0000&border_color=ffffff" alt="Spotify Now Playing" width="350" />
+  <img src="https://spotify-now-playing-seven-beta.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="350" />
 </p>
 
 ## 🛠️ Projects & Stats
