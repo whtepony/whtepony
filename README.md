@@ -35,9 +35,7 @@
   </table>
 
   <p>
-    <img src="https://stats-zlcx-whteponys-projects.vercel.app/api?username=whtepony&show_icons=true&theme=gotham" alt="Whtepony Stats" />
-    <br>
-    <i>These stats are for public repositories only</i>
+    <img src="https://github-readme-stats-sigma-ten-42.vercel.app/api?username=whtepony&show_icons=true&theme=gotham" alt="Whtepony Stats" />
   </p>
 </p>
 
