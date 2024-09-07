@@ -4,6 +4,8 @@
   <a href="https://discordapp.com/users/143100394627792897"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <br>
   <img src="https://static.wikia.nocookie.net/themiddle/images/c/ce/Tumblr_o96nhfT5Fi1rt41g1o1_500.gif/revision/latest/scale-to-width-down/500?cb=20231028133904" width="250">
+<br>
+  [![Spotify](https://spotify-now-playing-seven-beta.vercel.app/api/spotify)](#)
 </div>
 
 # Projects + Stats
