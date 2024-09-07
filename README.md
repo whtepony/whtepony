@@ -27,7 +27,7 @@
 </table>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=whtepony&show_icons=true&theme=gotham" alt="whtepony" />
+  <img src="https://stats-zlcx-whteponys-projects.vercel.app/api?username=whtepony&show_icons=true&theme=gotham" alt="whtepony" />
   <br>
   <i>These are public repos only</i>
 </p>
